@@ -3,7 +3,7 @@ title: Земляничная поляна
 date: 01-01-2016
 taxonomy:
     category: [Комфорт]
-	tag: [C1, Routine]
+	tag: [C1, Cold reading, Routine]
 	author: Captain Jack
 ---
 

@@ -4,7 +4,7 @@ date: 12-06-2010
 media: image
 taxonomy:
     category: [Привлечение]
-	tag: [A3, Routine]
+	tag: [A3, IOI, Routine]
 	author: Mystery
 metadata:
     description: 'Каждый раз, когда она демонстрирует для тебя высокую ценность, покажи ей свой интерес.'
