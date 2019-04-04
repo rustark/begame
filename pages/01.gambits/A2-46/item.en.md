@@ -4,7 +4,7 @@ date: 01-05-2015
 publish_date: '19-02-2019 01:00'
 media: image
 taxonomy:
-    category: [attract]
+    category: [Attract]
     tag: [A2, Routine, Cold reading]
     author: Brad P
 metadata:

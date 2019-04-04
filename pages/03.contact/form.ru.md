@@ -1,9 +1,35 @@
 ---
-title: 'Помоги проекту'
-menu: Связь
+title: 'Процесс'
+menu: Процесс
+process:
+    -
+        author: 'Love Systems'
+        title: 'Routines Manual Vol.1'
+        img: michael-discenza-199756-unsplash.jpg
+        percent: 100
+    -
+        author: 'Brad P'
+        title: 'How to Talk to Women'
+        img: michael-dam-258165-unsplash.jpg
+        percent: 75
+    -
+        author: 'Mystery'
+        title: 'Hey Guys'
+        img: alexander-popov-342444-unsplash.jpg
+        percent: 48
+    -
+        author: 'Love Systems'
+        title: 'Routines Manual Vol.2'
+        img: alexander-popov-566913-unsplash.jpg
+        percent: 4
+    -
+        author: 'Mystery'
+        title: 'Book of Negs'
+        img: marcela-laskoski-118684-unsplash.jpg
+        percent: 10
 form:
     action: /
-    classes: 'uk-grid-small uk-grid'
+    classes: 'uk-grid uk-hidden'
     fields:
         author:
             classes: uk-input
@@ -45,6 +71,7 @@ form:
             type: textarea
         recaptcha:
             dataclasses: 'uk-margin-top uk-width-responsive'
+            outerclasses: uk-hidden
             label: Капча
             labelclasses: 'uk-hidden'
             recaptcha_not_validated: 'Не сработало!'
@@ -71,8 +98,10 @@ form:
         message: '<b>Спасибо!</b><br/>Мы постараемся опубликовать ваш материал в ближайшее время!'
 ---
 
-#Помоги проекту
+#Процесс
 
-**Begame 0.9.9** версия проекта по социальной динамике. При обнаружении ошибки, или если у вас есть предложения по расширению функционала - напишите об этом в сообщество [Begame](https://vk.com/topic-40016074_39188341). На данный момент полностью перенесено первое пособие по рутинам от **Love Systems**.
+<span uk-icon="icon: begame"></span> <sup>beta</sup> здесь ты узнашь что такое **социальная динамика** и **игра** без регистрации и СМС. Никакого инфоцыганства - только структурированный набор знаний в открытом доступе. <abbr title="Раздел статей в доработке">Статьи</abbr> о структуре игры и набор <abbr title="Процесс перевода гамбитов ниже">гамбитов</abbr> для каждой стадии. Подключайся и расти вместе с нами.
 
-Вы можете помочь проекту, отправив свой гамбит для публикации в сообществе [Begame](https://vk.com/topic-40016074_39184993), в нашей закрытой группе [Vkontakte Lair](https://vk.com/vklair), или заполнив форму:
+[Vkontakte](https://vk.com/begame "В паблик автоматически добавляются новые гамбиты"){.uk-button .uk-button-text .uk-margin-right} [GitHub](https://github.com/rustark/begame "Гамбиты в .md для свободного использования"){.uk-button .uk-button-text .uk-margin-right} [Telegram](https://t.me/begame_gambits "RSS лента в телеграм"){.uk-button .uk-button-text .uk-margin-right}
+
+[Поддержи проект](https://money.yandex.ru/to/41001425190789 "Поддержать материально")
