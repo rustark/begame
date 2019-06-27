@@ -9,14 +9,14 @@ process:
         percent: 100
     -
         author: 'Brad P'
-        title: 'How to Talk to Women'
+        title: 'Black Book'
         img: michael-dam-258165-unsplash.jpg
         percent: 75
     -
         author: 'Mystery'
         title: 'Hey Guys'
         img: alexander-popov-342444-unsplash.jpg
-        percent: 48
+        percent: 100
     -
         author: 'Love Systems'
         title: 'Routines Manual Vol.2'
@@ -100,8 +100,15 @@ form:
 
 #Процесс
 
-<span uk-icon="icon: begame"></span> <sup>beta</sup> здесь ты узнашь что такое **социальная динамика** и **игра** без регистрации и СМС. Никакого инфоцыганства - только структурированный набор знаний в открытом доступе. <abbr title="Раздел статей в доработке">Статьи</abbr> о структуре игры и набор <abbr title="Процесс перевода гамбитов ниже">гамбитов</abbr> для каждой стадии. Подключайся и расти вместе с нами.
+<span uk-icon="icon: begame"></span> <sup>beta</sup> здесь ты узнашь что такое пикап, социальная динамика и игра без регистрации и СМС.
+<!--
+Более 10 лет [я](/players/dmitry-yakushev "Dmitry Yakushev") практикую **Mystery Method**. Все это время я был, есть и буду глубоко убежден в том, что абсолютно все знания по пикапу / социальной динамике / игре должны быть бесплатными и доступными каждому мужчине на планете. Более 10 лет я совершенно бесплатно делюсь знаниями и соблюдаю все правила игры (в т.ч. строгая конфиденциальность, но ты мог знать меня под несколькими псевдонимами в разное время).
 
-[Vkontakte](https://vk.com/begame "В паблик автоматически добавляются новые гамбиты"){.uk-button .uk-button-text .uk-margin-right} [GitHub](https://github.com/rustark/begame "Гамбиты в .md для свободного использования"){.uk-button .uk-button-text .uk-margin-right} [Telegram](https://t.me/begame_gambits "RSS лента в телеграм"){.uk-button .uk-button-text .uk-margin-right}
-
+С годами энтузиазм как на ведение тренингов (единственное, за что брал деньги - потраченое мной время на тренингах) так и на беготню по полям растерялся. Время уходить из игры все ближе и этот сайт «последний рубеж».  
+Здесь я совершенно бесплатно <abbr title="Раздел статей в доработке">пишу об игре</abbr> по принципу от общего к частному и собираю каталог гамбитов от лучших игроков на планете. И ты можешь внести свой вклад!
+-->
 [Поддержи проект](https://money.yandex.ru/to/41001425190789 "Поддержать материально")
+
+[Vkontakte](https://vk.com/begame "Помоги с переводом, либо просто подпишись"){.uk-button .uk-button-text .uk-margin-right} [GitHub](https://github.com/rustark/begame "Гамбиты в .md для свободного использования"){.uk-button .uk-button-text .uk-margin-right} [Telegram](https://t.me/begame_gambits "RSS лента в телеграм"){.uk-button .uk-button-text .uk-margin-right}
+
+Процесс перевода гамбитов:

@@ -23,7 +23,7 @@ mm:
                 header: A3
                 desc: 'Ответный IOI'
                 link: '/taxonomy?name=tag&val=A3'
-                text: 'Мужчина вкладывается в общение, дает ответный [IOI](/taxonomy?name=tag&val=IOI "Демонстрация интереса") и делает [Move](/taxonomy?name=tag&val=Move "Переход с девушкой в другую область локации").'
+                text: 'Мужчина вкладывается в общение, дает ответный [IOI](/taxonomy?name=tag&val=IOI "Демонстрация интереса"), например, в виде [Kino](/taxonomy?name=tag&val=Kino "Мужчина прикасается к женщине") и делает [Move](/taxonomy?name=tag&val=Move "Переход с девушкой в другую область локации").'
     -
         header: C
         desc: Комфорт

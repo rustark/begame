@@ -5,7 +5,7 @@ publish_date: '04-04-2019 05:00'
 media: image
 taxonomy:
     category: [Attract]
-    tag: [A1, Opener, Indirect, Opener, Neg]
+    tag: [A1, Indirect, Opener, Neg]
     author: [Mystery]
 metadata:
     description: How many nines exist between 1 and 100?
